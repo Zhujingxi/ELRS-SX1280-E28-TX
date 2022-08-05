@@ -1,0 +1,381 @@
+{
+  "uuid": "199c5b02ae97a922f7eb414c02b96c8f",
+  "path": "Offline/elrs%20TX%20E28",
+  "name": "elrs TX E28",
+  "content": "",
+  "created_at": "2022-08-05 08:57:06",
+  "updated_at": "2022-08-05 10:09:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "05aac72f67fa6baf2331d1776eb848fd",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "06921e1d54c04b3f87dba4a4fd8b205f": 1,
+        "bb009484ef804a24ac5d18c54b249586": 9,
+        "714512e4b6984cfc945e221936c566fe": 1,
+        "b432bd73e0c04b93a500c7fa07ef80c2": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1,
+        "f7ed587e4ef745fca545978cc83badf2": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 5,
+        "a4eacdcb63554cb08b3b56477817ab57": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "635c47e014b74562854da93ff258a9b0": 1,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1uF",
+          2,
+          "C0603",
+          "C1,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100nf",
+          1,
+          "C0603",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "C0603",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "GX12-3",
+          1,
+          "GX12-3",
+          "H1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5f834107d9ae455bad4e7933b70deb01",
+            "uuid": "b432bd73e0c04b93a500c7fa07ef80c2"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          1,
+          "HDR-F-2.54_1X4",
+          "H3",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "27uH",
+          1,
+          "L0603",
+          "L2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1f261cf72cb1479ca32177c31156ede3",
+            "uuid": "a4eacdcb63554cb08b3b56477817ab57"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "20",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "41.2K",
+          1,
+          "R0603",
+          "R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "13k",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51K",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "16.9k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "薄膜按键2*3*0.65MM",
+          1,
+          "KEY-SMD_L3.0-W2.0-LS3.5",
+          "SW1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900015708",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "薄膜按键2*3*0.65MM",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "10116d716abc4fe3b48bb84ef058bfaf",
+            "uuid": "635c47e014b74562854da93ff258a9b0"
+          }
+        ],
+        [
+          "E28-2G4M27S",
+          1,
+          "WIRELM-SMD_E28-2G4M2XS",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C411312",
+            "BOM_Manufacturer": "Chengdu Ebyte Elec Tech",
+            "BOM_Manufacturer Part": "E28-2G4M27S",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "24ab4c36ca884332a8a95954bfa46161",
+            "uuid": "06921e1d54c04b3f87dba4a4fd8b205f"
+          }
+        ],
+        [
+          "ESP32-WROOM-32D",
+          1,
+          "WIFIM-SMD_39P-L25.5-W18.0-P1.27-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C473012",
+            "BOM_Manufacturer": "ESPRESSIF 乐鑫",
+            "BOM_Manufacturer Part": "ESP32-WROOM-32D",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e6052af1dfb44e85bf3d28af7b8ab9ab",
+            "uuid": "714512e4b6984cfc945e221936c566fe"
+          }
+        ],
+        [
+          "MP9943GQ-Z",
+          1,
+          "QFN-8_L3.0-W3.0-P0.65-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C477821",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "MP9943GQ-Z",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bfb55c90bde14f12a85141d619002352",
+            "uuid": "f7ed587e4ef745fca545978cc83badf2"
+          }
+        ]
+      ],
+      "updateTime": 1659663479,
+      "createTime": 1659661026,
+      "histories": [],
+      "created_at": "2022-08-05 08:57:06",
+      "updated_at": "2022-08-05 09:37:59"
+    },
+    {
+      "uuid": "b99ad18ad2d5637dfb183990acb20e34",
+      "puuid": "199c5b02ae97a922f7eb414c02b96c8f",
+      "title": "PCB_elrs",
+      "filename": "PCB_elrs.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "10116d716abc4fe3b48bb84ef058bfaf": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "1f261cf72cb1479ca32177c31156ede3": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "bfb55c90bde14f12a85141d619002352": 1,
+        "e6052af1dfb44e85bf3d28af7b8ab9ab": 1,
+        "5f834107d9ae455bad4e7933b70deb01": 1,
+        "24ab4c36ca884332a8a95954bfa46161": 1,
+        "21473b495b6340c992965357d5701779": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1
+      },
+      "BOM": [],
+      "updateTime": 1659665345,
+      "createTime": 1659661060,
+      "histories": [],
+      "created_at": "2022-08-05 08:57:40",
+      "updated_at": "2022-08-05 10:09:05"
+    }
+  ],
+  "sort": [],
+  "title": "elrs TX E28",
+  "foldername": "elrs TX E28",
+  "schfilename": "elrs TX E28.json",
+  "schfilemtime": 1659663479664
+}
